@@ -1,4 +1,8 @@
 # AreaSaver
+[![Jenkins Build](https://img.shields.io/jenkins/build?jobUrl=https%3A%2F%2Fci.unstoppable.work%2Fjob%2FDragonade%2520Plugins%2Fjob%2FAreaSaver%2F)](https://ci.unstoppable.work/job/Dragonade%20Plugins/job/AreaSaver/)
+[![Discord](https://img.shields.io/discord/647431164138749966?label=support)](https://discord.gg/KjeQ7xv)
+
+## Overview
 Saves objects in a specific region in any map into a file, and loads them.  
 Before explaining the usage, let's talk about which commands does AreaSaver offer.
 
